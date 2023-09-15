@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  input {
+      background-color:transparent;
+      border: 0px solid;
+  }
+  input:focus-visible {
+    outline: transparent;
+  }
+}
